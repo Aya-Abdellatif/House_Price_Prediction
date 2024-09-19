@@ -11,7 +11,7 @@ The goal of this project is to build and compare two different models for predic
 # Results
 
 - **Linear Regression**: Achieved an R-squared score of 0.66 and RMSE of $67,227.03.
-- **Random Forest**: Achieved an R-squared score of 0.85 and RMSE of $35,000.
+- **Random Forest**: Achieved an R-squared score of 0.81 and RMSE of $50,141.90.
 
 ### Model Comparison
 - The **Random Forest** model performs better overall due to its ability to capture non-linear relationships in the data.
